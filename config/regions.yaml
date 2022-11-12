@@ -1,5 +1,9 @@
 regions:
   africa:
+    niger:
+      name: Niger
+      flag: 🇳🇪
+      osmcha.id:
     drc:
       name: Democratic Republic of the Congo
       flag: 🇨🇩
